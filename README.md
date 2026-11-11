@@ -6,7 +6,6 @@ A Python project for comparing tokenization methods on social-media and biomedic
 
 - `tokenizer_experiments.py` runs the multi-seed experiments and writes results to `my_results_v2/`.
 - `app_v2.py` provides a Streamlit dashboard for the generated results and an interactive text analyzer.
-- The other Python files are earlier experiment and dashboard versions.
 
 ## Setup
 
