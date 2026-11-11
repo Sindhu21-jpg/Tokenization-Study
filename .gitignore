@@ -1,0 +1,32 @@
+# Python environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local data, archives, and experiment outputs
+Assignment_4_Text_Sentiment/data/
+train.txt
+testdata.manual.2009.06.14.csv
+training.1600000.processed.noemoticon.csv
+*.zip
+*.7z
+*.csv
+my_results/
+my_results_v2/
+results/
+test_run/
+tokenization_results/
+
+# Research documents and presentations
+*.pdf
+*.docx
+*.pptx
+
+# Local Streamlit settings and secrets
+.streamlit/

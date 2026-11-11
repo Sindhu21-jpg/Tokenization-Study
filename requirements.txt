@@ -1,0 +1,10 @@
+altair
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+scipy
+spacy
+streamlit
+transformers
